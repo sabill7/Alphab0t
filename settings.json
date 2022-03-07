@@ -1,21 +1,44 @@
 {
+
     "self_mode": false,
-	"autobio": false,
-	"msg_connected": false,
+
+	"autobio": true,	"msg_connected": false,
+
 	"user_register": false,
+
 	"anti_delete" : false,
-	"anticall": true,
+
+	"anticall": false,
+
 	"auto_welcome_msg": true,
+
 	"auto_leave_msg": true,
+
 	"prefix": ".",
+
 	"language":"ind",
-	"ownerNumberr": "62887435047326",
-	"ownername": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-	"botname":"Alphabot",
+
+	"ownerNumberr": "6281931886933",
+
+	"ownername": "ᴹᴿ᭄ Sabillོ ×፝֟͜×",
+
+	"botname":"Bill Botོ",
+
 	"thumb":"thumbnail_1.jpg",
+
 	"thumbnail":"thumbnail_2_1.jpg",
+
 	"fakethumb":"thumbnail_1.jpg", 
+
 	"donasi":"donasi.jpg",
+
 	"captionpay":"Scan untuk melakukan pembayaran",
-	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+
+	"fake": " 「  Bill Botོ  」\nCreated By ᴹᴿ᭄ Sabillོ ×፝֟͜×"<
+
 }
+
+
+	
+
+	
